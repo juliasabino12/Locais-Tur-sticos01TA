@@ -11,11 +11,16 @@
         }
 
         p {
-        font-style: italic;
-        text-align: center;
-        
+            font-style: italic;
+           text-align: center;
 
         }
 
+    }
+
+    .divider {
+        height: 1px;
+        background: var(--boder-primary);
+        margin-block: 4rem;
     }
 }
